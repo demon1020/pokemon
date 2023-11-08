@@ -2,6 +2,18 @@
 
 This task is designed to assess your skills in Flutter application development and testing. You are required to build a Flutter application that fetches and displays a list of Pokémon. Users should be able to tap on a list item to navigate to a detailed view of the selected Pokémon, complete with images on both screens.
 
+To fetch pokemon details you can use `StubbedPokemonApi` class which can be found in `packages/data/lib/src/data_base.dart`. You can import this package to your main application to use the given class.
+
+```yaml
+...
+
+dependencies:
+  data_layer:
+    path: packages/data_layer
+
+...
+```
+
 ## Task Description
 
 ### Application Features:
