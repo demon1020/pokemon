@@ -1,0 +1,11 @@
+{
+  "@@locale": "hi",
+  "appName": "पोकीमॉन",
+  "height": "ऊंचाई",
+  "weight": "वज़न",
+  "generation": "पीढ़ी",
+  "baseExperience": "आधार अनुभव",
+  "type": "प्रकार",
+  "abilities": "क्षमताओं",
+  "stats": "आँकड़े"
+}

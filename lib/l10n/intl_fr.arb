@@ -1,0 +1,11 @@
+{
+  "@@locale": "fr",
+  "appName": "Pokémon",
+  "height": "hauteur",
+  "weight": "poids",
+  "generation": "génération",
+  "baseExperience": "expérience de base",
+  "type": "taper",
+  "abilities": "capacités",
+  "stats": "Statistiques"
+}
