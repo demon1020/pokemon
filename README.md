@@ -75,7 +75,8 @@ Good luck with your task! We are excited to see your innovative and efficient so
 2. core - Contains common resources,services and theme etc
 3. feature - contains domain layer with repository and model with freezed
 4. presentation - contains state management (bloc), pages(UI), common widgets
-5. l10n - for localisation, added support for (English, Hindi, Spanish, French)
+5. l10n - for localisation, added support for (English, Hindi, Spanish, French) [Change system language]
+6. Use main branch
 
 ## Features Completed
 - **Listing Screen:** Display a scrollable list of Pokémon. Each list item should present at least the name of the Pokémon.
@@ -92,4 +93,5 @@ Good luck with your task! We are excited to see your innovative and efficient so
 5. Added custom Pokemon fonts on home screen
 6. Image caching added
 7. Added support to change home layout gridview/Listview
-8. updated app icon
+8. added support for custom theme and dark theme as per system (Custom theme only for dev provision made)
+9. updated app icon
